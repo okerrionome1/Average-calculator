@@ -1,0 +1,9 @@
+C:\Users\Marshall\source\repos\averageCalc2\averageCalc2\bin\Debug\averageCalc2.exe.config
+C:\Users\Marshall\source\repos\averageCalc2\averageCalc2\bin\Debug\averageCalc2.exe
+C:\Users\Marshall\source\repos\averageCalc2\averageCalc2\bin\Debug\averageCalc2.pdb
+C:\Users\Marshall\source\repos\averageCalc2\averageCalc2\obj\Debug\averageCalc2.csprojAssemblyReference.cache
+C:\Users\Marshall\source\repos\averageCalc2\averageCalc2\obj\Debug\averageCalc2.Form1.resources
+C:\Users\Marshall\source\repos\averageCalc2\averageCalc2\obj\Debug\averageCalc2.Properties.Resources.resources
+C:\Users\Marshall\source\repos\averageCalc2\averageCalc2\obj\Debug\averageCalc2.csproj.GenerateResource.cache
+C:\Users\Marshall\source\repos\averageCalc2\averageCalc2\obj\Debug\averageCalc2.exe
+C:\Users\Marshall\source\repos\averageCalc2\averageCalc2\obj\Debug\averageCalc2.pdb
